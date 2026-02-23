@@ -1,0 +1,44 @@
+Convert the attached EMS protocol document into Markdown of the following format.
+```
+# Protocol Title
+
+## Overall Procedure
+1. Universal Patient Care Protocol
+2. Patient Assessment
+3. Continue with further steps as necessary
+    1. Include related notes as sub-items where appropriate
+
+### Sub-Procedure 1 Title
+If the decision tree diagram includes multiple branches, describe the criteria for selecting between the multiple paths.
+
+1. Treatment/Procedure Step 1
+2. Further steps as needed.
+
+### Sub-Procedure 2 Title
+Include further sub-procedures as needed.
+
+## Indications
+* Unresponsive patient
+* Other indications as listed in the protocol
+
+## Signs and Symptoms
+* Change in skin color
+* Other symptoms as listed in the protocol
+
+## Differential Diagnosis
+* Diabetic emergency
+* Other diagnoses as listed in the protocol
+
+## Key Points
+* Capnography is mandatory with all methods of intubation. Document results.
+* Other key points as listed in the protocol.
+
+## Other Information (if needed)
+Any text box that is not part of the decision tree or one of the preceding named sections should be included here.
+```
+Return only the Markdown output and maintain the original protocol text as closely as possible.
+Avoid adding clarifications that do not exist in the original (e.g. "if indicated").
+Ignore any images or content that cannot be represented as text.
+Do not include the provider level interventions key ("paramedic intervention") or the protocol navigation headers ("cardiac").
+Put each element of text from the protocol in only one location in the Markdown; avoid duplication.
+Refer to the tables in the image to ensure that the text ends up in the correct column.

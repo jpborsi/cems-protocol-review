@@ -1,0 +1,267 @@
+---
+version: "2026R1"
+protocols:
+  adult_airway:
+      start: 20
+      end: 21
+  adult_chf:
+      start: 22
+      end: 23
+  adult_fbao:
+      start: 24
+      end: 25
+  adult_rsi:
+      start: 26
+      end: 27
+  adult_resp_medical:
+      start: 28
+      end: 29
+  adult_resp_trauma:
+      start: 30
+      end: 30
+  adult_shock:
+      start: 32
+      end: 36
+  adult_chestpain:
+      start: 38
+      end: 39
+  adult_acs:
+      start: 40
+      end: 41
+  adult_bradycardia:
+      start: 42
+      end: 43
+  adult_tachycardia_narrow:
+      start: 44
+      end: 45
+  adult_tachycardia_wide:
+      start: 46
+      end: 47
+  adult_arrest_bls:
+      start: 48
+      end: 49
+  adult_arrest_hypothermic:
+      start: 50
+      end: 51
+  adult_asystole:
+      start: 52
+      end: 53
+  adult_vfib:
+      start: 54
+      end: 55
+  adult_vfib_ecpr:
+      start: 56
+      end: 57
+  adult_vfib_refractory:
+      start: 58
+      end: 59
+  adult_postrosc:
+      start: 60
+      end: 61
+  adult_abdpain:
+      start: 64
+      end: 65
+  adult_withdrawal:
+      start: 66
+      end: 67
+  adult_alteredloc:
+      start: 68
+      end: 69
+  adult_behavioral:
+      start: 70
+      end: 71
+  adult_diabetic:
+      start: 72
+      end: 73
+  adult_dialysis:
+      start: 74
+      end: 75
+  adult_hyperkalemia:
+      start: 76
+      end: 77
+  adult_hyperthermia:
+      start: 78
+      end: 79
+  adult_hypertensive:
+      start: 80
+      end: 81
+  adult_hypothermia:
+      start: 82
+      end: 83
+  adult_nausea:
+      start: 84
+      end: 85
+  adult_painmanagement:
+      start: 86
+      end: 87
+  adult_seizures:
+      start: 88
+      end: 89
+  adult_stroke:
+      start: 90
+      end: 91
+  adult_syncope:
+      start: 92
+      end: 93
+  adult_toxic:
+      start: 94
+      end: 95
+  adult_toxic_cardiac:
+      start: 96
+      end: 97
+  adult_toxic_cyanide:
+      start: 98
+      end: 99
+  adult_toxic_co:
+      start: 100
+      end: 101
+  adult_toxic_hf:
+      start: 102
+      end: 102
+  adult_abdtrauma:
+      start: 108
+      end: 109
+  adult_burns:
+      start: 110
+      end: 111
+  adult_chesttrauma:
+      start: 112
+      end: 113
+  adult_crush:
+      start: 114
+      end: 115
+  adult_drowning:
+      start: 116
+      end: 117
+  adult_extremitytrauma:
+      start: 118
+      end: 119
+  adult_headtrauma:
+      start: 120
+      end: 121
+  adult_maxillofacial:
+      start: 122
+      end: 123
+  adult_multipletrauma:
+      start: 124
+      end: 125
+  adult_arrest_trauma:
+      start: 126
+      end: 127
+  pediatric_airway:
+      start: 130
+      end: 131
+  pediatric_fbao:
+      start: 132
+      end: 133
+  pediatric_croup:
+      start: 134
+      end: 135
+  pediatric_lowerairway:
+      start: 136
+      end: 137
+  pediatric_resp_trauma:
+      start: 138
+      end: 138
+  pediatric_shock:
+      start: 140
+      end: 144
+  pediatric_asystole:
+      start: 146
+      end: 147
+  pediatric_bradycardia:
+      start: 148
+      end: 149
+  pediatric_tachycardia_narrow:
+      start: 150
+      end: 151
+  pediatric_postrosc:
+      start: 152
+      end: 153
+  pediatric_vfib:
+      start: 154
+      end: 155
+  pediatric_tachycardia_wide:
+      start: 156
+      end: 157
+  pediatric_arrest_hypothermic:
+      start: 158
+      end: 159
+  pediatric_alteredloc:
+      start: 162
+      end: 163
+  pediatric_behavioral:
+      start: 164
+      end: 165
+  pediatric_diabetic:
+      start: 166
+      end: 167
+  pediatric_hyperkalemia:
+      start: 168
+      end: 169
+  pediatric_hyperthermia:
+      start: 170
+      end: 171
+  pediatric_hypothermia:
+      start: 172
+      end: 173
+  pediatric_nausea:
+      start: 174
+      end: 175
+  pediatric_painmanagement:
+      start: 176
+      end: 177
+  pediatric_seizure:
+      start: 178
+      end: 179
+  pediatric_syncope:
+      start: 180
+      end: 181
+  pediatric_toxic:
+      start: 182
+      end: 183
+  pediatric_toxic_cardiac:
+      start: 184
+      end: 185
+  pediatric_abdtrauma:
+      start: 192
+      end: 193
+  pediatric_burns:
+      start: 194
+      end: 195
+  pediatric_chesttrauma:
+      start: 196
+      end: 197
+  pediatric_drowning:
+      start: 198
+      end: 199
+  pediatric_extremitytrauma:
+      start: 200
+      end: 201
+  pediatric_headtrauma:
+      start: 202
+      end: 203
+  pediatric_maxillofacial:
+      start: 204
+      end: 205
+  pediatric_multipletrauma:
+      start: 206
+      end: 207
+  pediatric_arrest_trauma:
+      start: 208
+      end: 209
+  ob_abnormalbirth:
+      start: 212
+      end: 213
+  ob_hemorrhage:
+      start: 214
+      end: 215
+  ob_hypertensive:
+      start: 216
+      end: 217
+  ob_delivery:
+      start: 218
+      end: 219
+  ob_neonatal_resuscitation:
+      start: 220
+      end: 221
