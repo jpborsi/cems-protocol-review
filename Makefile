@@ -12,11 +12,11 @@ raw_protocol: protocol.pdf
 
 text_protocol: raw_protocol
 	mkdir -p text_protocol
-	./extract_all.sh
+	scripts/extract_all.sh
 
 review/openai: text_protocol
 	mkdir -p review/openai
-	./review_all.sh
+	scripts/review_all.sh
 
 review/openai_combined_review.csv: review/openai
-	./combine_csv.sh
+	scripts/combine_csv.sh
