@@ -16,7 +16,12 @@ dependencies = [
     "xai-sdk>=1.7.0",
 ]
 
+[build-system]
+requires = ["uv_build>=0.10.8,<0.11.0"]
+build-backend = "uv_build"
+
 [dependency-groups]
 dev = [
     "ruff>=0.15.4",
+    "pytest>=9.0.2"
 ]
