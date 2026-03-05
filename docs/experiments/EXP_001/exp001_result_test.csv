@@ -1,0 +1,15 @@
+csv
+problem_type,problem_name,problem_description
+clinical,Appropriate Medication and Sedation Choices,The protocol uses ketamine, midazolam, lorazepam, and fentanyl for sedation and analgesia, which are appropriate and commonly used in airway management.
+clinical,Capnography Mandatory,Protocol correctly mandates capnography with all intubation attempts and BIADs, which is evidence-based and appropriate.
+clinical,Needle/Surgical Cricothyrotomy Scope,"Cricothyrotomy is limited to trained providers with prior approval, which is clinically sound. Supplemental information is generally accurate, though some nuances (e.g., contraindications in children) are not discussed but may be outside the intended adult focus."
+operational,Intubation Attempt Documentation,Protocol requires documentation of failed intubation attempts, explicitly supporting quality assurance.
+operational,EMT Scope Limitation,Operational limitations for EMTs and AEMTs are clearly stated, helping avoid scope-of-practice confusion.
+operational,Transfer and Communication,"Protocol requires transport to an appropriate facility, contact with receiving facility, and medical control consultation where indicated, addressing good operational continuity."
+operational,Sedation After Airway Placement,"Additional sedation after advanced airway placement is included, but amounts and timing for repeated doses should perhaps be more prescriptive for new or less experienced providers."
+wording,Misspelled 'MANUVERS',"The word 'MANUVERS' in the protocol flowchart should be corrected to 'MANEUVERS'."
+wording,Typos in 'MIDAZOLAM' and 'LORazepam',"Throughout the protocol, there are inconsistent capitalizations, e.g., 'MIDAZOLAM' and 'LORazepam', though these do not actively interfere with comprehension due to your formatting rules."
+wording,Awkward Phrase in Capnography Note,"The phrase 'CAPNOGRAPHY PROCEDURE Required' appears multiple times; 'capnography required' would be clearer and more conventional."
+wording,Ambiguous Abbreviation 'prn' in Sedation Section,"The phrase 'q 2 min prn – Max 200 mg' (and similar for other drugs) could be confusing to those unfamiliar with 'prn' meaning 'as needed'. Expanded wording could improve clarity."
+wording,Awkward Use of 'i' and 'a' Notations,"The use of lowercase 'i' and 'a' before several statements (e.g., 'i COPD Patients', 'a Max 2 Intubation Attempts') is not explained and could confuse providers."
+wording,Typo in 'Proctocol' in Reference Section,"In 'SEE FOREIGN BODY AIRWAY OBSTRUCTION PROTCOL', 'PROTCOL' should be 'PROTOCOL'."

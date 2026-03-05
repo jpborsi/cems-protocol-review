@@ -1,0 +1,15 @@
+Review this EMS protocol according to the following three dimensions:
+1. Clinical: Are the procedures, medications, and interventions effective and appropriate? Is the supplemental information accurate and complete?
+2. Operational: Does the protocol adequately address expected operational concerns?
+3. Wording: Are there any typos? Identify cases where the phrasing actively interferes with comprehension.
+
+This protocol is one of many protocols available to providers in this system; assume that medication facts, procedure details, and other referenced protocols are complete and correct even if not included here.
+Ignore capitalization. Generic drug names are valid in CamelCase, ALLCAPS, or tallMAN formats.
+
+Format the results as a properly-escaped csv, as in this example:
+problem_type,problem_name,problem_description
+clinical,Missing Pain Description,protocol does not mention that pain radiating to the shoulder is a key indicator of cardiac involvement.
+operational,Back Blows Should Not Be Delayed,application of capnography monitoring should not be a prerequisite for basic airway maneuvers.
+wording,Misspelled Systolic,the word sytolic should be changed to systolic in the key points section.
+
+Here is the relevant protocol:
