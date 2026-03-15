@@ -1,0 +1,13 @@
+
+problem_type,problem_name,problem_description
+clinical,BIAD Use in Pulseless Patients Only,Protocol allows EMTs and AEMTs to use BIAD devices only in pulseless and apneic patients, potentially delaying airway placement in apneic but perfusing patients.
+clinical,Missing Hyperventilation Guidance,Protocol states not to assume hyperventilation is psychogenic and to use oxygen, but does not clarify when active bag-valve-mask (BVM) ventilation should be withheld versus provided.
+clinical,Risk of Over-Sedation,Multiple sedative and analgesic agents are listed for advanced airway placement and ongoing management, but there is limited specific guidance about cumulative dosing or monitoring for respiratory depression.
+operational,Appropriate Transport Destination Not Specified,Protocol states "TRANSPORT to appropriate facility" without specific guidance for facilities that may not be equipped for advanced airway management or failure of airway.
+operational,Documentation Requirements Ambiguous,Protocol states "Document Failed Attempt(s)" but does not specify what constitutes an attempt or the documentation standard.
+operational,RSI Protocol Reference Unclear,Protocol refers to "Consider RSI Protocol APPROVED DEPARTMENTS ONLY" without directly stating which providers are credentialed or where this information is found.
+operational,Medical Control Contact Ambiguous,The phrase "CONTACT receiving facility CONSULT Medical Control where indicated" ambiguously distinguishes between the two forms of communication, which may cause confusion.
+wording,Misspelled MANEUVERS,"BASIC MANUVERS FIRST" should be "BASIC MANEUVERS FIRST" and "FBAO Maneuvers" uses different spelling.
+wording,Complex Sentence Structures in Algorithm,Some algorithm steps are long and use multiple clauses (e.g., "Apply nasal cannula 15 LPM during intubation attempts") which may be hard to process quickly in emergent conditions.
+wording,Redundant Sedative and Analgesic Information,Several adjacent boxes in the flowchart repeat very similar sedative and analgesic dosages (e.g., KETAMINE, MIDAZOLAM, LORazepam), which may cause unnecessary cognitive load when selecting medications.
+wording,Awkward Esophageal Disease Section,The statement "i Esophageal Disease" and the following directions for esophageal obstruction are not clearly linked and could be better structured for clarity.

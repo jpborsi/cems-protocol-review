@@ -1,0 +1,19 @@
+
+problem_type,problem_name,problem_description
+clinical,Appropriateness of Sedation Medications,The protocol appropriately offers ketamine, midazolam, lorazepam, and fentanyl with dosage guidance and alternates if a drug is unavailable, reflecting current clinical standards.
+clinical,Appropriateness of Airway Management Algorithms,The instruction for basic maneuvers first, focus on minimal intubation attempts, and capnography monitoring is in keeping with best practices—no clinical concerns noted.
+clinical,Ketamine in Asthma,A useful point is included about ketamine being the preferred induction agent in asthmatic patients; this is accurate.
+clinical,Ketamine Use in Pregnancy,"The protocol notes risk/benefit assessment for ketamine use in pregnancy, advising consult with medical control—this is appropriate."
+operational,Scope of Practice Clarity,"Roles for EMT, AEMT, and Paramedic are delineated with color-coding; however, the statement ""AEMT Apneic or Pulseless and Apneic Patient Only"" in the intubation box could be unclear without emphasizing that AEMTs should not intubate non-apneic patients."
+operational,Documentation Requirements,"Providers are reminded to document failed attempts at intubation, and capnography use; this is operationally sound."
+operational,AEMT Airway Medication Restriction,"The protocol mentions, ""No Medications Down Extraglottic (BIAD) Airway,"" but does not clarify whether suctioning through the device is permitted, which could cause confusion in some operational settings."
+operational,Intubation Attempts Limit,The maximum of two intubation attempts is operationally correct and promotes patient safety but should clarify if this is per provider or per patient.
+operational,Transport and Handoff,"The bottom bar instructs to ""TRANSPORT to appropriate facility ... CONTACT receiving facility ... CONSULT medical control ..."" which is appropriate for continuity of care."
+wording,Repeated and Awkwardly Phrased Boxes,"In the main flow chart, ""CAPNOGRAPHY PROCEDURE Required"" is repeated many times and could clutter or confuse; consider simplifying."
+wording,Ambiguous Labeling of Interventions,"Color-coded intervention levels are only explained in the bottom legend; quick reference could be improved by repeating the legend or labeling in more locations."
+wording,Abbreviation Unexplained,"In the box ""i Document Failed Attempt(s)"", initial ""i"" is not defined and may be misunderstood by some providers."
+wording,Redundancy and Incomplete Sentences,"The block stating ""Apply nasal cannula 15 LPM during intubation attempts"" is somewhat out of place where it sits, and may be missed."
+wording,Obstructed Flow Due to Chart Layout,"The main algorithm is densely packed with numerous side and bottom bars; this can make following a single pathway challenging, risking step-skipping or oversight."
+wording,Spelling Error in 'MANUVERS',"In the block labeled ""BASIC MANUVERS FIRST"", the word should be ""MANEUVERS""."
+wording,Typo in PROTCOL,"In ""SEE FOREIGN BODY AIRWAY OBSTRUCTION PROTCOL"", PROTCOL should be ""PROTOCOL""."
+wording,Awkward Sentence Construction,"The sentence ""AEMT Apneic or Pulseless and Apneic Patient Only"" could be misread; consider replacing with ""AEMTs may intubate only if the patient is apneic or both pulseless and apneic""."

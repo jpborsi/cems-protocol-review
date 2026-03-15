@@ -1,0 +1,12 @@
+
+problem_type,problem_name,problem_description
+clinical,Sedation Dosing Clarity,The protocol lists maximum doses for sedation/analgesia but does not specify required monitoring or reassessment intervals for repeated dosing, which could risk oversedation or respiratory depression.
+clinical,Ambiguity in Pain Management for Airway Procedures,The protocol calls for fentaNYL dosing for pain tolerance but does not clarify under which airway scenarios (e.g., conscious intubation or post-placement) this is most appropriate, risking inconsistent application.
+clinical,Esophageal Obstruction Differentiation,The recommendation to place patients with esophageal obstruction in a position of comfort and treat pain is appropriate, but it does not emphasize airway protection in case of vomiting or aspiration risk.
+operational,Capnography Equipment Assumption,Protocol requires mandatory capnography with all intubations but does not specify contingency if equipment is unavailable or malfunctioning.
+operational,Medical Control Approval for Surgical Airways,The protocol requires prior medical control training/approval for cricothyrotomy but does not outline what to do if immediate action is required and no approval can be obtained.
+operational,Documentation Requirements,While failed intubation attempts are to be documented, the protocol lacks specific guidance on minimum documentation elements (e.g., attempt duration, devices used), which may lead to incomplete charting.
+wording,Poor Clarity in Medication Section Layout,"The section listing sedative and analgesic options (midazolam, lorazepam, fentaNYL) is presented in a dense manner, making it difficult to quickly distinguish choices, dosing, and routes, especially under stress."
+wording,Grammar Error in Key Points,"In the statement 'EMT may only place extraglottic (BIAD) airways in pulseless and apneic patients', the intended restriction could be clearer with 'EMTs may place extraglottic (BIAD) airways only in pulseless and apneic patients.'"
+wording,Unclear Timing and Sequence of Interventions,"The protocol's flow between 'not protecting / anticipated loss' and 'sedation prior to advanced airway placement' is confusing, especially regarding when to prioritize pain management versus airway control."
+wording,Incomplete Sentence Structure,"The segment 'a Max 2 Intubation Attempts' lacks a subject, leading to possible confusion; rephrase as 'A maximum of 2 intubation attempts is permitted.'"

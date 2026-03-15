@@ -1,0 +1,13 @@
+
+problem_type,problem_name,problem_description
+clinical,Unclear Sedation Timing,protocol suggests sedation both prior to and after advanced airway placement but the distinction is not clearly outlined for different patient presentations.
+clinical,Inconsistent Max Doses,maximum dosing intervals between ketamine, midazolam, lorazepam, and fentanyl are stated but clinical rationale for interval and maximum values isn't explained or referenced, which may confuse providers in edge cases.
+operational,Capnography Procedure Required But Not Clarified for All Airway Types,protocol states capnography is required with all intubation methods but does not explicitly state if this applies equally to BIAD/extraglottic airways and supraglottic placements (which could cause workflow uncertainty).
+operational,Bronchospasm/Asthma Not Explicitly Covered,although ketamine is recommended for asthmatic patients, the workflow does not otherwise clarify airway management for severe asthma/bronchospasm or status asthmaticus (unless this is specifically covered elsewhere).
+operational,Transfer of Care Not Specified in All Scenarios,protocol instructs "APPROPRIATE transfer of care" but does not define responsibilities for documentation, reporting, and confirmation of airway status at handoff.
+wording,Awkward List Formatting,Basic Airway Maneuvers section uses "BASIC MANUVERS FIRST Open airway Nasal / Oral Airway Bag-Valve-Mask" without clear list separators, which impairs readability.
+wording,Misspelling of 'MANUVERS',"MANUVERS" should be changed to "MANEUVERS" throughout the protocol.
+wording,Use of Lowercase 'i' as Bullet/Instruction,lower-case 'i' is used to introduce instructions (e.g., "i COPD Patients"), which may be mistaken for a typo or variable, decreasing clarity.
+wording,Redundancy in Airway Device Listing,protocol repeatedly defines and lists extraglottic (BIAD) airway devices and example brands without clarifying the intent of each reiteration.
+wording,Inconsistent Use of Dosing Abbreviations,'q2 min prn' and 'q 10 min prn' are not uniformly formatted (sometimes with spaces and sometimes without), which may hinder quick reading in high-stress scenarios.
+wording,Unexplained Abbreviations,LOC and other clinical abbreviations are not accompanied by their full terms on initial use, which could confuse novice providers.

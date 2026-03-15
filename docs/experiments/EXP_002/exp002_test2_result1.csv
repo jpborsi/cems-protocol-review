@@ -1,0 +1,13 @@
+
+problem_type,problem_name,problem_description
+clinical,Ketamine Preferred in Asthma,Protocol notes ketamine is the preferred induction agent in asthmatic patients but does not emphasize caution in cardiac-compromised or hypertensive patients which may be relevant for some EMS populations.
+clinical,Esophageal Obstruction Not Fully Explained,For esophageal obstruction, the protocol instructs to place patient in comfort, suction, and treat pain but does not mention airway protection/risk of aspiration in obtunded patients.
+operational,Intubation Attempt Documentation Requirement,Protocol requires documentation of failed intubation attempts but does not specify how or where these should be documented in the field.
+operational,Transport Statement Ambiguity,The directive to "transport to appropriate facility" is vague and lacks guidance regarding facility type (ex: trauma center vs. community hospital) for specific airway emergencies.
+operational,Nasal Cannula During Intubation,Applying a nasal cannula at 15 LPM during intubation is sound but the protocol does not specify if this is only for apneic oxygenation or for all intubations, which may cause confusion.
+operational,Chain of Medical Control for Cricothyrotomy,Protocol requires “Must Have Prior Medical Control Training/Approval” for cricothyrotomy but process for obtaining approval is not defined operationally (pre-insertion or at time of call).
+wording,Typo in PROTCOL,The word "PROTCOL" should be corrected to "PROTOCOL" in the phrase "SEE FOREIGN BODY AIRWAY OBSTRUCTION PROTCOL".
+wording,Sedative Analgesic Column Repetition,"Sedative Analgesic" appears twice in the vertical column on the flowchart, which is confusing for understanding when to use each type of medication.
+wording,BASIC MANUVERS Should Be Maneuvers,"BASIC MANUVERS FIRST" should be "BASIC MANEUVERS FIRST" to avoid misspelling.
+wording,Ambiguity: “AEMT Apneic or Pulseless and Apneic Patient Only”,The phrase "AEMT Apneic or Pulseless and Apneic Patient Only" is unclear – it's not clear if both criteria are needed or if either suffices.
+wording,Inconsistent Formatting in Medications Section,The ketamine (usual dose) is noted as "100 mg", which could be misleading since it should be per weight (1 mg/kg) – recommend bolding or separating weight-based dosing vs. typical adult dose.
