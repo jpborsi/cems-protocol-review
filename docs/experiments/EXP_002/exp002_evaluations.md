@@ -532,14 +532,94 @@ some really good points in this one, but lots of duplicative comments.
 
 ## Result 3
 ### Clinical
+* versed dosing interval
+	- relevant. great point!
+* ongoing ventilation support
+	- relevant. BVM is definitely the fallback, but we should be able to use our new vents.
+* no confirmation steps for advanced airway placement
+	- relevant. this is included in the intubation procedure.
+* failed advanced airway
+	- not relevant. if BIAD is contraindicated, intubation is also contraindicated.
+* sellicks maneuver
+	- relevant. conflicting evidence.
+* no pediatric specific considerations
+	- not relevant. candidate for future prompt instruction
+* lack of hypoxia/hypercarbia monitoring
+	- not relevant. capno/oxygen is clearly in the protocol.
+4/7 relevant
 
 ### Operational
+* capno accessibility
+	- not relevant. this resource is available.
+* documentation requirements
+	- not relevant. potential future prompt instruction
+* RSI ambiguity
+	- not relevant. providers are very aware of their departmental status.
+* med control timing
+	- not relevant. call med control when you need to.
+* no destination guidance
+	- not relevant. out of scope. potential future prompt instruction
+* no backup plan
+	- relevant. potentially could be included in key points. already exists in other protocols.
+1/6 relevant
 
 ### Wording
+* inconsistent dosing intervals
+	- relevant, low priority.
+* ambiguous antecedents
+	- relevant. "maintain tube" is poorly written. title of this item should be clearer
+* run-on ketamine sentence
+	- hallucination. that sentence is not a run-on.
+* spelling/spacing errors in medicatoin
+	- not relevant. duplicative with item 1, there are no spelling errors.
+* unexplained abbreviations
+	- borderline. BIAD is defined everywhere it is used. ETT is not defined and should be removed.
+* parentheticals
+	- not relevant. artifact of text extraction
+2/6 relevant
 
 ## Result 4
 ### Clinical
+* hyperventilation
+	- relevant. there's nothing in the protocol about hyperventilation except that one cryptic remark!
+* sellicks
+	- relevant. conflicting evidence exists.
+* pediatric considerations
+	- not relevant.
+* sequential intubation unclear
+	- relevant
+* placement confirmation
+	- relevant, covered in other protocols
+4/5 relevant
 
 ### Operational
+* med control for crike
+	- not relevant.
+* documentation
+	- not relevant. potential inclusion for future prompts.
+* med control
+	- not relevant. protocol _does_ state indications for med control
+* transfer of care requirements
+	- not relevant. potential instruction for future prompts.
+0/4 relevant
 
 ### Wording
+* ABC's apostrophe
+	- not relevant. either is correct
+* respiratory rate capitalization
+	- not relevant. existing instructions say to ignore capitalization
+* prn capitalization
+	- not relevant. existing instructions say to ignore capitalization
+* max dosing
+	- relevant. LLM output isn't clear, but there is some ambiguity in the dosing section.
+* fentanyl unclear
+	- not relevant. possible extraction artifact.
+* BIAD abbreviation inconsistent
+	- relevant
+* comma splice in indications
+	- not relevant. possible extraction artifact
+* run-on sentence (c-collar)
+	- relevant.
+* "etc." should be avoided.
+	- borderline. technically correct, feels like a weird thing to mention.
+3/9

@@ -1,0 +1,19 @@
+problem_type,problem_name,problem_description
+clinical,Hyperventilation Guidance Incomplete,protocol states not to assume hyperventilation is psychogenic and to "use oxygen, not a paper bag," but does not provide further guidance regarding re-breathing management and monitoring for actual medical causes.
+clinical,Sellick's Maneuver Recommendation,protocol recommends sellick's maneuver for all difficult intubations without warning regarding risk of esophageal rupture or evidence questioning its efficacy and safety.
+clinical,Pediatric Considerations Missing,protocol does not provide any age-specific or weight-based modifications for pediatric airway management.
+clinical,Sequential Intubation Unclear,protocol lacks direction for oxygenation/ventilation between intubation attempts.
+clinical,No Mention of Placement Confirmation,protocol mandates capnography but does not mention auscultation or visualization as adjuncts to confirm tube/device placement.
+operational,Authorization for Advanced Airway Placement,requirement for "prior medical control training / approval" for cricothyrotomy may be unclear in an emergent field setting and could delay care.
+operational,Documentation Clarity,protocol states to document results/capnography and failed attempts, but does not specify other required airway documentation such as difficulty, size, or confirmation steps.
+operational,"Contact" vs "Consult" Medical Control Ambiguity,the protocol says to contact the receiving facility and "consult" medical control "where indicated" but does not specify when/what conditions would require medical control consultation.
+operational,Transfer of Care Requirements Ambiguous,"appropriate transfer of care" is mentioned but required documentation, handoff details, and minimum information are not specified.
+wording,ABC's Apostrophe Incorrect,"abc’s" should read "abcs" as it is not possessive.
+wording,Respiratory Rate Capitalization,"respiratory rate, effort, and adequacy" is not capitalized for consistency with other headings.
+wording,"prn" Should be Consistent,abbreviation "prn" alternates between lowercase and uppercase and should be standardized.
+wording,Max Dosing Phrasing,phrasing such as "max 200 mg" is ambiguous without stating "do not exceed."
+wording,"fentaNYL ... until pain tolerance" Unclear,"fentaNYL 25 mcg doses until pain tolerance prn q2 mins – Max 200 mcg" is unclear if it refers to procedural pain, if cumulative, and if to be given with sedatives or alone; risks confusion.
+wording,BIAD Abbreviation Inconsistent,sometimes "extraglottic (biad) airway device" and sometimes just "biad" or "extraglottic airway device"—recommend standardizing the term for clarity.
+wording,Comma Splice in Indications,"apnea" and "coughing" are separated by asterisk but then include commas in a list; should use consistent bullet or comma-only format.
+wording,Run-On Sentence in Key Point,the sentence "Paramedics should consider using an extraglottic (BIAD) airway if they are unable to intubate. Consider c-collar to maintain ETT placement for all intubated patients to maintain tube." is two ideas mashed together and could be clarified.
+wording,"Etc." Should Be Avoided,usage of "etc." in "iGel, King Airway, LMA, etc." should be avoided in clinical documents in favor of "such as."
