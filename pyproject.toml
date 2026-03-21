@@ -6,14 +6,14 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "argparse>=1.4.0",
-    "claude-agent-sdk>=0.1.48",
+    "claude-agent-sdk>=0.1.50",
     "dotenv>=0.9.9",
     "google-genai>=1.68.0",
     "openai>=2.29.0",
     "pycryptodome>=3.23.0",
     "pypdf>=6.8.0",
     "pyyaml>=6.0.3",
-    "xai-sdk>=1.8.2",
+    "xai-sdk>=1.9.1",
 ]
 
 [build-system]
@@ -22,6 +22,6 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
-    "ruff>=0.15.5",
+    "ruff>=0.15.7",
     "pytest>=9.0.2"
 ]
