@@ -6,12 +6,13 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "argparse>=1.4.0",
-    "claude-agent-sdk>=0.1.56",
+    "claude-agent-sdk>=0.1.66",
+    "deepeval>=3.9.7",
     "dotenv>=0.9.9",
-    "google-genai>=1.70.0",
-    "openai>=2.30.0",
+    "google-genai>=1.73.1",
+    "openai>=2.32.0",
     "pycryptodome>=3.23.0",
-    "pypdf>=6.9.2",
+    "pypdf>=6.10.2",
     "pyyaml>=6.0.3",
     "xai-sdk>=1.11.0",
 ]
