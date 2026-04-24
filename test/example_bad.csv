@@ -1,0 +1,15 @@
+problem_type,problem_name,problem_description
+clinical,No Specific Indication for Airway Interventions,protocol lists generic indications (apnea, choking, inability to speak, etc.) without providing distinguishing criteria between when basic maneuvers are sufficient and when advanced interventions should be escalated—risking premature or delayed intervention.
+clinical,Limited Discussion of Oxygen Indications in COPD,protocol mentions oxygen in COPD but does not specify cautions (e.g., use titrated oxygen, avoid over-oxygenation) that may be clinically important in this context.
+clinical,Capnography Pre-Requisite May Delay Basic Airway Maneuvers,requirement that "CAPNOGRAPHY PROCEDURE required" before advanced airway interventions may delay emergent procedures for providers unfamiliar with workflow.
+clinical,Sedation and Analgesia Dose Overlap,allowing up to both maximum sedation and analgesia doses (e.g., ketamine and fentanyl separately to maxima) may increase risk of oversedation or respiratory depression; concurrent use should have clearer parameters.
+operational,Ambiguous Department Approval for RSI,statement "Consider RSI Protocol APPROVED DEPARTMENTS ONLY" lacks operational clarity about how providers should determine approval status in the field.
+operational,AEMT and EMT Scopes Not Clearly Distinguished in Procedure Steps,while key points summarize scopes, procedure section should more clearly delineate steps by licensure level to prevent scope-of-practice errors under stress.
+operational,Documenting Failed Attempts May Be Incomplete,requirement to "Document Failed Attempt(s)" could operationally benefit from specifying minimum documentation elements (e.g., attempt number, time, reason for failure, provider).
+operational,Use of C-Collar to Maintain ETT Not Operationalized,instructs to "consider c-collar to maintain ETT placement" but gives no details, risking impractical application or confusion in the field.
+wording,"BASIC MANUVERS" Spelling Error,"BASIC MANUVERS FIRST" should be "BASIC MANEUVERS FIRST".
+wording,"i COPD Patients" Unclear Inline Note,"i COPD Patients" after "Consider Supplemental OXYGEN" is isolated and unclear; if intended as a note, clarify or relocate.
+wording,"i Esophageal Disease" Not Explained,"i Esophageal Disease" appears under BIAD use with no further context or explanation, causing potential confusion.
+wording,Inconsistent Use of Abbreviations and Formatting,"BIAD" is sometimes defined and sometimes used alone without consistent definition; "OR" and "AND" are in uppercase, making medication instructions harder to scan and potentially confusing.
+wording,Intubation Patient Criteria Confusingly Stated,"AEMT Apneic or Pulseless and Apneic Patient Only" is awkward, making intended patient population unclear—phrase should clarify whether apneic, pulseless and apneic, or both.
+wording,"q 2 min prn" and Other Latin Abbreviations,"q 2 min prn" ("every 2 minutes as needed") and similar are repeated throughout—may cause confusion; recommend accompanying English.
