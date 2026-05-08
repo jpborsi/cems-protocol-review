@@ -6,15 +6,15 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "argparse>=1.4.0",
-    "claude-agent-sdk>=0.1.66",
-    "deepeval>=3.9.7",
+    "claude-agent-sdk>=0.1.77",
+    "deepeval>=3.9.9",
     "dotenv>=0.9.9",
-    "google-genai>=1.73.1",
-    "openai>=2.32.0",
+    "google-genai>=1.75.0",
+    "openai>=2.36.0",
     "pycryptodome>=3.23.0",
     "pypdf>=6.10.2",
     "pyyaml>=6.0.3",
-    "xai-sdk>=1.11.0",
+    "xai-sdk>=1.12.2",
 ]
 
 [build-system]
@@ -23,6 +23,9 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
-    "ruff>=0.15.9",
-    "pytest>=9.0.2"
+    "ruff>=0.15.12",
+    "pytest>=9.0.3"
 ]
+
+[tool.uv.sources]
+my-lib = { path = "../src/ems_protocol" }
